@@ -7,6 +7,9 @@ The project includes:
 * A script to train a new model
 * A script to test existing models
 
+The models can usually clear ~5 lines per game. A different approach to evolving the network or some other changes might yield better results.
+
+
 **How it works**
 
 The ai plays by evaluating the possible placements for the next shape and choosing the one that gets the highest score from the neural network.
