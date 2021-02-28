@@ -37,6 +37,8 @@ The third model (superbig) uses a input vector size of 205, which is made of the
 
 **Running it**
 
+Requirements: python-neat & pygame
+
 Testing a model: run `python3 test.py <version>` where <version> is either small/big/superbig corresponding to the version of the model.
   
 Playing the game: run `python3 play.py` 
