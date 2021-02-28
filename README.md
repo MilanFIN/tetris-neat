@@ -7,7 +7,7 @@ The project includes:
 * A script to train a new model
 * A script to test existing models
 
-The models can usually clear ~5 lines per game. A different approach to evolving the network or some other changes might yield better results.
+The models can usually clear ~5 lines per game. A different approach to evolving the network or some other changes might end up yielding better results.
 
 
 **How it works**
