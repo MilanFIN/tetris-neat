@@ -33,7 +33,7 @@ The first one (small) only uses an input vector size of 5. The values correspond
 
 The second model (big) uses an input vector size of 200. Each element corresponds to a coordinate on the board and has a value of 0 or 1 depending on if that coordinate has a block in it.
 
-The third model uses a input vector size of 205, which is made of the combination of the small and big input vectors.
+The third model (superbig) uses a input vector size of 205, which is made of the combination of the small and big input vectors.
 
 **Running it**
 
