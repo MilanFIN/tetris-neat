@@ -38,7 +38,9 @@ The third model uses a input vector size of 205, which is made of the combinatio
 **Running it**
 
 Testing a model: run `python3 test.py <version>` where <version> is either small/big/superbig corresponding to the version of the model.
+  
 Playing the game: run `python3 play.py` 
+
 Generate a model: run `python3 multi.py`
 
 **Training a new model**
