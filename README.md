@@ -10,6 +10,11 @@ The project includes:
 The models can usually clear ~5 lines per game. A different approach to evolving the network or some other changes might end up yielding better results.
 
 
+
+![screenshot of the game](https://raw.githubusercontent.com/MilanFIN/tetris-neat/main/screenshot.png)
+
+
+
 **How it works**
 
 The ai plays by evaluating the possible placements for the next shape and choosing the one that gets the highest score from the neural network.
